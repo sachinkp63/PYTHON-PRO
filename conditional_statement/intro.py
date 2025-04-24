@@ -27,3 +27,4 @@ elif (a == 0):  # this statement runs only when multiple of conditions are there
     print("a equals 0...")
 else:
     print("a is lesser...") 
+    
